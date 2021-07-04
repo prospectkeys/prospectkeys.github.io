@@ -7,17 +7,17 @@ description: The best in the west. Built in Oakley, UT.
 
 
 #-------------------------------
-# Menu Settings ------ NEED
-menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    # - title: 'Blog'
-    #   url: '/blog/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
+# Menu Settings ------ NEED MENU - HERE IS IT
+# menu__settings:
+#   menu__items:
+#     - title: 'Home'
+#       url: '/'
+#     - title: 'Blog'
+#       url: '/blog/'
+#     - title: 'About'
+#       url: '/about/'
+#     - title: 'Contact'
+#       url: '/contact/'
 
 
 #-------------------------------
