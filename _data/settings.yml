@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Prospect Keyboards 
-logo: '/images/logo1.png'
+logo: '/images/logo1_v2.png'
 author: Ben Shapiro 
 description: The best in the west. Built in Oakley, UT.
 
@@ -23,8 +23,8 @@ description: The best in the west. Built in Oakley, UT.
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title:  Welcome to Prospect. We build custom keyboards inspired by the mountain west.
-  hero__description:  
+  hero__title:  Prospect Keyboards aims to introduce hand crafted PC Peripherals that bring delight to your digital experience.
+  hero__description: 
 
 
 #-------------------------------
@@ -32,7 +32,7 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
-    - image: /images/gallery-01.jpg
+    - image: /images/keyb1.jpg
       title: Benjamin Shapiro
       description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
 

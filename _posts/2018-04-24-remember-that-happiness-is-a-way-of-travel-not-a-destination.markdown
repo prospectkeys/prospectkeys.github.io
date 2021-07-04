@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Remember that happiness is a way of travel, not a destination
+title:  Test Post
 date:   2018-04-24 15:01:35 +0300
-image:  '/images/14.jpg'
+image:  '/images/test_post.jpg'
 tags:   [fashion, story, rest]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Becca Tapert](https://unsplash.com/photos/lA7OhpEMRug) diversity and empowerment.
