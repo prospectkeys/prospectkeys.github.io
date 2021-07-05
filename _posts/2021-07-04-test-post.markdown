@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Test Post
+date:   2021-07-04 15:01:35 +0300
+image:  '/images/test_post.jpg'
+tags:   [fashion, story, rest]
+---
+I am now taking orders for commisions. Stay posted for updates soon.
+
+We now offer lubing, tuning, spring swaps.
