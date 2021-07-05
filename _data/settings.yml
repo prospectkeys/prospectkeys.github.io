@@ -8,16 +8,16 @@ description: The best in the west. Built in Oakley, UT.
 
 #-------------------------------
 # Menu Settings ------ NEED MENU - HERE IS IT
-# menu__settings:
-#   menu__items:
-#     - title: 'Home'
-#       url: '/'
-#     - title: 'Blog'
-#       url: '/blog/'
-#     - title: 'About'
-#       url: '/about/'
-#     - title: 'Contact'
-#       url: '/contact/'
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact Me'
+      url: '/contact/'
 
 
 #-------------------------------
@@ -72,7 +72,7 @@ portfolio:
 #-------------------------------
 # Subscribe Settings
 mailchimp:
-  mailchimp__title: Get updates and digital art inspiration # Add your Title
+  mailchimp__title: Get updates about new products and services # Add your Title
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text.
   mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
@@ -95,7 +95,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
+  email: prospectkey@gmail.com # Add your email for contact form
   description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
 
 # NOTE
