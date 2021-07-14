@@ -32,21 +32,22 @@ hero:
 portfolio:
   portfolio__title: 
   portfolio__gallery:
+    - image: /images/20.jpg
+      title: Custom PC Case and Build
+      description: by Benjamin Shapiro
+
+    - image: /images/13.jpg
+      title: Customized 2014 CoolerMaster Retrofit
+      description: Lubed Gateron Yellows, Aluminum Plate
+
+    - image: /images/16.jpg
+      title: GEEEK DIY Build
+      description: Alpenfohn Black Ridge, Mini ITX, GEEEK A30
+
+
     - image: /images/keyb1.jpg
-      title: Benjamin Shapiro
-      description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
-
-    # - image: /images/gallery-02.jpg
-    #   title: Paula Vermeulen
-    #   description: Gray mountain covered by mountain <a href="https://unsplash.com/photos/_f2m3mEkaaU">Unsplash</a>
-
-    # - image: /images/gallery-03.jpg
-    #   title: Bench Accounting
-    #   description: White wooden table near brown chair <a href="https://unsplash.com/photos/nvzvOPQW0gc">Unsplash</a>
-
-    # - image: /images/gallery-04.jpg
-    #   title: Nord Wood
-    #   description: White ceramic mug <a href="https://unsplash.com/photos/nDd3dIkkOLo">Unsplash</a>
+      title: Modded Drop CTRL
+      description: by Benjamin Shapiro
 
     # - image: /images/gallery-05.jpg
     #   title: Luca Bravo
