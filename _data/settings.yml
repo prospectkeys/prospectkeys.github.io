@@ -34,8 +34,9 @@ portfolio:
     #   description: Lubed Gateron Yellows, Aluminum Plate
 
     - image: /images/25.jpg
-      title: Customized 2014 CoolerMaster Retrofit
-      description: Lubed Gateron Yellows, Aluminum Plate
+      title: Black Resin Build
+      description: Lubed Gateron Yellows, Aluminum Plate 
+      link: https://www.ebay.com/itm/174848253444
 
     - image: /images/16.jpg
       title: GEEEK DIY Build
