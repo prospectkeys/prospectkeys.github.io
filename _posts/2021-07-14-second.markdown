@@ -6,4 +6,4 @@ image:  '/images/19.jpg'
 tags:   [fashion, story, rest]
 ---
 
-I offer upgrading services for current PCs and commissions for highly customized builds, and I specialize in high end small form factor PCs.
+I also offer upgrading services for current PCs and commissions for highly customized builds, and I specialize in high end small form factor PCs.
