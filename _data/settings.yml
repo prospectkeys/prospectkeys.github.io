@@ -29,24 +29,47 @@ portfolio:
   portfolio__title: 
   portfolio__gallery:
 
-    # - image: /images/13.jpg
-    #   title: Customized 2014 CoolerMaster Retrofit
-    #   description: Lubed Gateron Yellows, Aluminum Plate
-
-    - image: /images/25.jpg
-      title: Black Resin Build
-      description: Kailh Box Royals, Brass Plate 
-      link: https://www.ebay.com/itm/174848253444
 
 
-    - image: /images/16.jpg
-      title: GEEEK DIY Build
-      description: Alpenfohn Black Ridge, Mini ITX, GEEEK A30
+    - image: /images/27.jpg
+      title: 
+      description:
+      
+      
+    - image: /images/28.jpg
+      title: 
+      description: 
+      
+    - image: /images/29.jpg
+      title: 
+      description: 
+      
+    - image: /images/32.jpg
+      title: 
+      description: 
+            
+    - image: /images/34.jpg
+      title: 
+      description: 
+      
+    - image: /images/39.jpg
+      title: 
+      description: 
+      
+    - image: /images/43.jpg
+      title: 
+      description: 
+     
 
 
-    - image: /images/keyb1.jpg
-      title: Modded Drop CTRL
-      description: by Benjamin Shapiro
+#     - image: /images/16.jpg
+#       title: GEEEK DIY Build
+#       description: Alpenfohn Black Ridge, Mini ITX, GEEEK A30
+
+
+#     - image: /images/keyb1.jpg
+#       title: Modded Drop CTRL
+#       description: by Benjamin Shapiro
       
     # - image: /images/gallery-05.jpg
     #   title: Luca Bravo
