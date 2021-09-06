@@ -20,9 +20,9 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Prospect Systems
-  hero__description: Prospect Keyboards aims to introduce mainstream-custom as well as hand crafted keyboards that bring delight to your digital experience. If you are interested in a bespoke keyboard or kit, visit the "Contact Me" page. 
-
-
+  hero__description: I create keyboards that are delightful to use and uniquely tailored to your needs and wants. I will help you achieve the sound, feel and aesthetic you have in mind. I also sell keyboards that I have built that I have deemed of high quality and general appeal (these for now will be sold through Ebay). If you are interested, <a href="mailto:prospectkeys@gmail.com">shoot me an email</a> or <a href="https://www.ebay.com/usr/bsh339">browse what I have available on Ebay</a>.
+  
+  
 #-------------------------------
 # Portfolio Settings
 portfolio:
