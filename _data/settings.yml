@@ -30,11 +30,6 @@ portfolio:
   portfolio__gallery:
 
 
-
-    - image: /images/45.jpg
-      title: GMMK Pro with PBT Botanical Keycaps and Zealio V2
-      description: <a href="https://www.youtube.com/watch?v=85lXPlcvAQs&t=1s&ab_channel=ProsepectKeys">See the sound test</a> or <a href="https://photos.app.goo.gl/voV2GD7vrJU5dj5D9">More Photos</a>
-      
     # - image: /images/56.jpg
     #   title: 
     #   description:
@@ -53,21 +48,11 @@ portfolio:
       title: 
       description:
       
-      
-    - image: /images/52.jpg
-      title: 
-      description:
-
 
     - image: /images/53.jpg
       title: 
       description:
-    
-      
-      
-    - image: /images/28.jpg
-      title: 
-      description: 
+   
       
     - image: /images/29.jpg
       title: 
