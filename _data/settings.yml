@@ -29,6 +29,20 @@ portfolio:
   portfolio__title: 
   portfolio__gallery:
 
+    - image: /images/29.jpg
+      title: 
+      description: 
+      
+    - image: /images/32.jpg
+      title: 
+      description: 
+            
+ 
+    - image: /images/34.jpg
+      title: 
+      description: 
+      
+
 
     # - image: /images/56.jpg
     #   title: 
@@ -54,17 +68,7 @@ portfolio:
       description:
    
       
-    - image: /images/29.jpg
-      title: 
-      description: 
-      
-    - image: /images/32.jpg
-      title: 
-      description: 
-            
-    - image: /images/34.jpg
-      title: 
-      description: 
+
       
 
      
