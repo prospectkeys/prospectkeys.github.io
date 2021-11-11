@@ -27,6 +27,7 @@ hero:
 # Portfolio Settings
 portfolio:
   portfolio__title: 
+  portfolio_description: Some keyboard builds, click for more information.
   portfolio__gallery:
     - image: /images/32.jpg
       title: Wood Frankenboard
