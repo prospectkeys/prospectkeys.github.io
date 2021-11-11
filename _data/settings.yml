@@ -28,10 +28,6 @@ hero:
 portfolio:
   portfolio__title: 
   portfolio__gallery:
-    - image: /images/101.jpg
-      title: Acrylic Ergonomic Prime_E Keyboard
-      description: Prime_E Acrylic Case, Pom Plate, Gazzew Boba U4 Silent Tactiles lubed with Krytox 205g0, EPBT Grand Tour PBT Keycaps, Video at https://www.youtube.com/watch?v=veND4avGS2I&t=26s
-
     - image: /images/32.jpg
       title: Wood Frankenboard
       description: WT60-D WEIRDFLEX PCB, Mode Designs Signal Tactile Switches, KbdFans PolyCarb Plate, Wood 60% Modded GH-64 Case
@@ -63,13 +59,13 @@ portfolio:
 
 
     - image: /images/48.jpg
-      title: 
-      description:
+      title: Gingham With T1
+      description: Gingham Through Hole Keyboard, Durock T1, PBT Keycaps, Tape mod
       
 
     - image: /images/53.jpg
-      title: 
-      description:
+      title: Custom CM RapidFire 
+      description: Yellow Switches with 205g0
    
       
 
