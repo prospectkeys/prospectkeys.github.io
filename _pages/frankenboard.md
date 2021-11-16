@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wood Frankenboard
-permalink: /about/
+permalink: /frankenboard/
 image: '/images/32.jpg'
 ---
 
