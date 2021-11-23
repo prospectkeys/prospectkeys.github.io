@@ -29,10 +29,13 @@ portfolio:
   portfolio__title: A sample of keyboards I've built. Check YouTube for sound tests.
   portfolio__gallery:
 
+    - image: /images/103.jpg
+      title: Tofu HHKB
+      description: Tofu HHKB with Gateron Yellow, and EPBT Grand Tour
 
     - image: /images/102.jpg
-      title: 
-      description:
+      title: Prime_E Keyboard
+      description: Prime_E from Prime Keyboards, with Boba U4T and EPBT Grand Tour
       
 
     - image: /images/32.jpg
