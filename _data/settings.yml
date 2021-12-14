@@ -29,6 +29,14 @@ portfolio:
 #   portfolio__title: A sample of keyboards I've built. Check YouTube for sound tests.
   portfolio__gallery:
 
+    - image: /images/DSC00073.JPG
+      title: Green Tofu with Green Tea
+      description: Dark Green Tofu, Geekark Tea PBT Keycaps, Boba U4T, Polycarb Plate
+      
+#     - image: /images/DSC00068.JPG
+#       title: Bakanekko60 with 
+#       description: Dark Green Tofu, Geekark Tea PBT Keycaps, Boba U4T, Polycarb Plate
+
     - image: /images/103.jpg
       title: Tofu HHKB
       description: Tofu HHKB with Gateron Yellow, and EPBT Grand Tour
