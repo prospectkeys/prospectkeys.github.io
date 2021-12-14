@@ -26,7 +26,7 @@ hero:
 #-------------------------------
 # Portfolio Settings
 portfolio:
-  portfolio__title: A sample of keyboards I've built. Check YouTube for sound tests.
+#   portfolio__title: A sample of keyboards I've built. Check YouTube for sound tests.
   portfolio__gallery:
 
     - image: /images/103.jpg
