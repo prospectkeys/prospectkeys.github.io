@@ -26,7 +26,7 @@ hero:
 #-------------------------------
 # Portfolio Settings
 portfolio:
-#   portfolio__title: A sample of keyboards I've built. Check YouTube for sound tests.
+  portfolio__title: I will work with you and my maker partners to build you a unique, highly customized, luxury keyboard. I stream the whole process on Twitch. Also let me know if you have the parts and would like me to assemble it on stream. Feel free to browse some of my past commissions:
   portfolio__gallery:
 
     - image: /images/DSC00073.JPG
