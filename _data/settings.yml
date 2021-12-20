@@ -26,6 +26,7 @@ hero:
 #-------------------------------
 # Portfolio Settings
 portfolio:
+  portfolio__description: I will work with you and my maker partners to build you a unique, highly customized, luxury keyboard. I stream the whole process on Twitch. Also let me know if you have the parts and would like me to assemble it on stream. Feel free to browse some of my past commissions:
   portfolio__gallery:
 
     - image: /images/DSC00073.JPG
