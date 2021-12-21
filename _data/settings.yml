@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Commissions and Build Services'
+      url: '/blog/first'
     - title: 'About'
       url: '/about/'
 
