@@ -1,9 +1,0 @@
----
-layout: post
-title:  Custom PC Services
-date:   2021-07-04 15:01:35 +0300
-image:  '/images/19.jpg'
-tags:   [fashion, story, rest]
----
-
-I also offer upgrading services for current PCs and commissions for highly customized builds, and I specialize in high end small form factor PCs.
