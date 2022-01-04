@@ -5,31 +5,20 @@ description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/IMG_20211120_115600.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/IMG_20211120_115600.jpg)
 
-## Features
+## Services
 
-Index is packed with powerful features to showcase your work:
+I offer a variety of services:
 
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+* Bespoke fully built keyboards - I will work with you every step of the way to get you the keyboard of your dreams. 
+* Building parted out keyboards - I will take parts you have selected and shipped to me for me to build and if you want, add some unique finishing touches. 
+* Lubing - I will use my process of lubing, tuning, modding, and customizing switches to your particular tastes.
+* Consultation - I will do no-cost consultations with you whenever you commission a product. Due to logistics they will probably be virtual. I will consult with you for a fee, outside of any commission, or for a reduced fee after a commision project has ended. 
 
-## Get Index
 
-Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+## Get a Prospect Keyboard
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Contact me today to set up a consultation and get the process started. The first consultation is free! 
+
+<a href="https://doodle.com/bp/benjaminshapiro/prospect-keys-keyboard-consultations" class="button button--large">Sign up Now</a>
