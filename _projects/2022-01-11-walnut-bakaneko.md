@@ -17,4 +17,5 @@ I had owned a wooden tray-mount for one of my first purchases in the hobby but i
 
 ![My tray mount endgame](/images/demo/demo-landscape.jpg)
 
-I worked with a local woodworker to get a prototype milled out of walnut. It looked a lot like my GK-64, pretty plain and uninteresting. 
+I worked with a local woodworker to get a prototype milled out of walnut. It looked a lot like my GK-64, pretty plain and uninteresting. However, with a little bit of flair with the Geekark Tea set, we had a nice looking prototype (according to myself and a few friends' preference, though certainly not everyone's). It sounded really interesting with the brass plate and 50a strength gummy O-ring. I was pleasantly surprised as the sound was unlike other keyboards. It makes sense, as I am not aware of any other wooden Bakaneko60 keyboards. See the sound test below and judge for yourself.
+
