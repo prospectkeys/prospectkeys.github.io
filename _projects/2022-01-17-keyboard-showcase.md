@@ -8,6 +8,10 @@ featured_image: '/images/IMG_20211120_115600.jpg'
 
 ![](/images/IMG_20211120_115600.jpg)
 
+## Under Construction... more photos to come very soon!
+
+---
+
 ## Mode65
 ###### Full alumninum frame, FR4 full-plate, Penguin switches, GMK Hennessey
 

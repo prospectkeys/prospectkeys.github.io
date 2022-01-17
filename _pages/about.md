@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: I am a keyboard builder based out of Oakley, Utah. I work with artisans and makers throughout the state of Utah and the mountain west, to bring you a unique keyboard that sounds, feels and looks amazing. In my normal life, I'm a software engineer who loves anything outdoors and tinkering with art and electronics.
+subtitle: I am a keyboard builder based out of Oakley, Utah. I work with artisans and makers throughout the state of Utah and the mountain west, to bring you a unique keyboard that sounds, feels and looks amazing. In my normal life, I'm a mental health worker and software engineer who loves anything outdoors and tinkering with art and electronics.
 description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/IMG_20211120_115600.jpg
 ---
