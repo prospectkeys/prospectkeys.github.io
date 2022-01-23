@@ -12,25 +12,17 @@ featured_image: '/images/Baka60/PXL_20220118_232354979.jpg'
 
 ---
 
-## Mode65
+## Mode 65
 ###### Full alumninum frame, FR4 full-plate, Penguin switches, CannonKeys CXA Black on White
 
 ![](/images/mode65/PXL_20220115_023523364.jpg)
 
-## Frog TKL
-###### Navy Frog with FR4 Plate, Mode Signal switches and EPBT Grand Tour
-
-![](/images/demo/demo-landscape.jpg)
-
 ## Walnut 60% Custom
 ###### Something of a franken-board that came of my experimentation with tray-mount boards when I first got into the hobby. Zealio V2 switches, Walnut Case with standoff removal and o-ring mod, plateless, with Wilbatech WeirdFlex PCB.
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/PXL_20210724_170938653(1).jpg)
 
-## Green Tofu
-###### Tofu with PolyCarbonate plate, DZ60 PCB, Boba U4T
-
-## 'Witish' Bakaneko
+## 'Whitish' Bakaneko
 ###### Gummy O-ring mounted keyboard, with AeBoard Naevies, FR4 Plate, Tape Modded, Polyfil Dampened
 
 ![](/images/Baka60/PXL_20220118_232411436.jpg)
