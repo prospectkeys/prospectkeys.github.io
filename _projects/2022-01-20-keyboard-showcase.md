@@ -26,3 +26,9 @@ featured_image: '/images/Baka60/PXL_20220118_232354979.jpg'
 ###### Gummy O-ring mounted keyboard, with AeBoard Naevies, FR4 Plate, Tape Modded, Polyfil Dampened
 
 ![](/images/Baka60/PXL_20220118_232411436.jpg)
+
+## Black Resin 60%
+###### Alopow Resin Case, SA Miami Nights, Zealio V2, Brass Plate
+
+![](/images/PXL_20210719_183808256.jpg)
+
