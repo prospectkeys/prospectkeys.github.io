@@ -3,19 +3,19 @@ title: 'Keyboard Showcase'
 subtitle: 'This is a page where I showcase some of my favorite keyboard builds to give you some idea what is possible if you are new to custom keyboards.' 
 date: 2022-01-17 00:00:00
 description: Some keyboards as an example of the type of work done for commissions
-featured_image: '/images/IMG_20211120_115600.jpg'
+featured_image: '/images/Baka60/PXL_20220118_232354979.jpg'
 ---
 
 ![](/images/IMG_20211120_115600.jpg)
 
-## Under Construction... more photos to come very soon!
+## More photos to come very soon!
 
 ---
 
 ## Mode65
-###### Full alumninum frame, FR4 full-plate, Penguin switches, GMK Hennessey
+###### Full alumninum frame, FR4 full-plate, Penguin switches, CannonKeys CXA Black on White
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/mode65/PXL_20220115_023523364.jpg)
 
 ## Frog TKL
 ###### Navy Frog with FR4 Plate, Mode Signal switches and EPBT Grand Tour
@@ -29,3 +29,8 @@ featured_image: '/images/IMG_20211120_115600.jpg'
 
 ## Green Tofu
 ###### Tofu with PolyCarbonate plate, DZ60 PCB, Boba U4T
+
+## 'Witish' Bakaneko
+###### Gummy O-ring mounted keyboard, with AeBoard Naevies, FR4 Plate, Tape Modded, Polyfil Dampened
+
+![](/images/Baka60/PXL_20220118_232411436.jpg)
