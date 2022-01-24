@@ -1,7 +1,7 @@
 ---
 title: 'Keyboard Showcase'
 subtitle: 'This is a page where I showcase some of my favorite keyboard builds to give you some idea what is possible if you are new to custom keyboards.' 
-date: 2022-01-17 00:00:00
+date: 2022-01-21 00:00:00
 description: Some keyboards as an example of the type of work done for commissions
 featured_image: '/images/Baka60/PXL_20220118_232354979.jpg'
 ---

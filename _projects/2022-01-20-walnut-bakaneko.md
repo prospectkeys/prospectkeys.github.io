@@ -1,7 +1,7 @@
 ---
 title: 'Walnut Bakaneko 60'
 subtitle: 'A prototype wooden Bakaneko 60 design'
-date: 2018-06-30 00:00:00
+date: 2022-01-20 00:00:00
 description: The first iteration of an wood artisan take on the classic gummy o-ring keyboard.
 featured_image: '/images/PXL_20220116_230112947.jpg'
 ---
@@ -27,4 +27,6 @@ However, once I tried the Bakaneko, tray mount in the 60% form factor was spoile
 
 I worked with a local woodworker to get a prototype CNC milled out of walnut. It looked a lot like my GK-61, pretty plain and uninteresting. However, with a little bit of flair with the Geekark Tea set, we had a nice looking prototype (according to myself and a few friends' preference, though certainly not everyone's). It sounded really interesting with the brass plate and 50a strength gummy O-ring. I was pleasantly surprised as the sound was unlike other keyboards. It makes sense, as I am not aware of any other wooden Bakaneko60 keyboards.
 
-I tried using an FR4 plate but it didn't quite sound how I wanted. I landed on the brass plate that I currently have in and am personally happy with in feel and sound signature. It sounds <i>almost</i> as good as my aluminum Bakaneko. It is certainly a unique sound. You can hear the wood, especially on the upper rows, where the wood beneath is thicker. I'm starting to have ideas about the next iteration. If you have any, feel free to email me. If you'd like to buy one of these some day, sign up for the newsletter. I promise it won't bother you unless it's important! Once the design is solid, the next step is to make the first non-prototype unit with one of the wood-artists I have talked to. 
+I tried using an FR4 plate but it didn't quite sound how I wanted. I landed on the brass plate that I currently have in and am personally happy with in feel and sound signature. It sounds <i>almost</i> as good as my aluminum Bakaneko. It is certainly a unique sound. You can hear the wood, especially on the upper rows, where the wood beneath is thicker. I'm starting to have ideas about the next iteration. If you have any, feel free to email me. If you'd like to buy one of these some day, sign up for the newsletter. I promise it won't bother you unless it's important! 
+
+Anyway, once the design is solid, the next step is to make the first non-prototype unit with one of the wood-artists I have talked to. Some changes I have received as feedback and intend to implement eventually are raising the bezels so the switches aren't seen and 
