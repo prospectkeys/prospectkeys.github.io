@@ -1,10 +1,10 @@
 basic_settings:
   site_title: Prospect Keyboards
-  site_tagline: I am a keyboard builder based out of Oakley, Utah. I do commissioned keyboard builds. To contact me, <a href="mailto:prospectkeys@gmail.com">shoot me an email</a> To see more, click the photos for more information on a project!
+  site_tagline: I am a keyboard builder based out of Oakley, Utah. I do commissioned keyboard builds. To contact me, <a href="mailto:prospectkeys@gmail.com">shoot me an email</a>. To see more, click the photos for more information on a project!
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/Prospect Keyboards - sk_VM-01.jpg
+  logo_image: /images/Prospect Keyboards - sk_VM-01 (copy).jpg
   logo_width: 200
 
 menu_settings:
