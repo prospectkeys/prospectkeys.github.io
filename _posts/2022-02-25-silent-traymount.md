@@ -3,7 +3,7 @@ title: 'Silent Tactile Tray Mount'
 subtitle: 'In search of a travel board' 
 date: 2022-02-25 00:00:00
 description: 
-featured_image: ''
+featured_image: '/images/Silent-travel/PXL_20220326_160202593.jpg'
 ---
 
 My journey for a silent travel-board started with a green Tofu 60 keyboard I had made totally silent. It had plate foam, DIY case foam, and even switch foam pads from KBDFans foam. I was after a totally silent board, and this one was damn quiet. For those who don't know, the foams are there to attempt to asborb as much sound as possible. As for the switch foam, I don't know if it did anything. It's similar to the PE Foam many boards these days are coming with, which isn't used to silence but to "marbleize" their keyboard, or whatever. 
