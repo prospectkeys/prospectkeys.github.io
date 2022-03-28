@@ -14,6 +14,8 @@ I've only tried two silent switches, the Boba U4s and the Durock Shrimp, or Duro
 
 The Durocks feel good to me. They are one of my favorite switches, made silent. I put headphones on and I couldn't really tell these were silent by noticing a lot of mushiness. They just mostly feel like regular T1 tactiles. With the Durocks, all you hear is an almost inaudible thump. Being in a Tofu, the typing feel is very stiff. I used a polycarbonate plate to try to make the feel a little softer as well as not add metal that might ping and ruin the silence of the board. I have heard POM plates are even quieter than PC, and I want to test that assertion at some point. Using such quiet switches, it might not matter which plastic plate I chose. It does feel slightly less like a brick with the PC plate making it just a tiny bit more soft and bearable. I prefer softer typing feel like that of a gummy worm gasket board.
 
+![](https://photos.google.com/photo/AF1QipOwkQyavf9sGWomtGtq2JQyP50_CnrrEqyGj9af)
+
 The Tofu is obviously very simple, but looks good. It's minimal and seems well anodized (I was actually surpised at how nice it was, coming from the Bakaneko), in the dark green color. Otherwise, it's pretty basic as Tofu is. For a travel board, it's not ideal though. It's too heavy in my opinion. I don't forsee the Tofu holding up too well. It would get scratched, and then there would be super noticeable silver streaks.
 
 
