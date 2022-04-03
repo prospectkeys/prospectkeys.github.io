@@ -26,6 +26,5 @@ I offer a variety of services:
 
 If you want to set up a comission, <a href="mailto:prospectkeys@gmail.com">shoot me an email</a> and/or <a href="https://doodle.com/bp/benjaminshapiro/prospect-keys-keyboard-consultations"> schedule a time for a consultation. </a> 
 
-To contact me, <a href="mailto:prospectkeys@gmail.com">shoot me an email</a>.
 
 
