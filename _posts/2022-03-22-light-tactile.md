@@ -26,4 +26,6 @@ There are distinctly fewer light tactile switches released than these supposed M
 
 The Pewters are a compromise between tactiles and linears, and a very satisfying one. I really like how they sound as well, due supposedly in part to their UHMWPE housing. It's higher pitched for sure, as many have noted but I don't think they sound plasticky or bad in any way. Some people complained about a weird scratchiness between the stem and the leaf. After being lubed, I can say that it is mostly gone away but I can see what they mean. There is a slight leaf scratch but it's not unpleasant. I tried them on a gummy O-ring Bakaneko with FR4 and a Mode SixtyFive with Aluminum. I like how they work with the Aluminum plate on the Mode, and produce a pleasant metallic clack. I find it's a little difficult to tell with the Bakaneko, as it sounds great with any switch, but kind of makes switches sound very similar to each other. 
 
+The Pewters are very easy switch to like. The 58.5g spring combined with small tactile bump are not too demanding on the fingers, making for a poppy and fun typing experience. They are the first MX-style switch that just clicked for me.
+
 

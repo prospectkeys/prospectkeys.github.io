@@ -1,5 +1,5 @@
 ---
-title: 'Silent Tactile Tray Mount'
+title: 'Building a Silent Tactile Tray Mount'
 subtitle: 'In search of a travel board' 
 date: 2022-02-25 00:00:00
 description: 

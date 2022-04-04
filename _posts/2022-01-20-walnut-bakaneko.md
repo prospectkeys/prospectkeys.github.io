@@ -1,6 +1,6 @@
 ---
-title: 'Walnut Bakaneko 60%'
-subtitle: 'A prototype wooden Bakaneko 60 design'
+title: 'Building a Wooden Bakaneko 60%'
+subtitle: 'A prototype walnut Bakaneko 60 design'
 date: 2022-01-20 00:00:00
 description: The first iteration of an wood artisan take on the classic gummy o-ring keyboard.
 featured_image: '/images/PXL_20220116_230112947.jpg'
