@@ -8,10 +8,7 @@ featured_image: '/images/Baka65/PXL_20220130_225454721.jpg'
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-02.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
-	<img src="/images/demo/landscape-05.jpg">
+	<img src="/images/Baka65/PXL_20220130_225454721.jpg">
+	<img src="/images/Baka65/PXL_20220131_003643237.jpg">
+	<img src="/images/Baka65/PXL_20220131_003716161.jpg">
 </div>
