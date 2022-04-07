@@ -10,7 +10,7 @@ I am a keyboard builder based out of Oakley, Utah. I do commissioned keyboard bu
 
 Welcome! I will build the best luxury keyboard for your individual desires and requirements. I work with artisans and makers throughout the state of Utah and the mountain west, to bring you a unique keyboard that sounds, feels and looks amazing. 
 
-![](/images/IMG_20211120_115600.jpg)
+![](/images/PXL_20220315_010549301.jpg)
 
 ## Services
 
