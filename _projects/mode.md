@@ -3,7 +3,7 @@ title: 'The Mode SixtyFive'
 subtitle: '' 
 date: 2022-02-28 00:00:00
 description: 
-featured_image: '/images/PXL_20220216_010441119.jpg'
+featured_image: '/images/mode65/PXL_20220326_164205863.jpg'
 ---
 
 ## Designed by Mode Designs
@@ -16,7 +16,7 @@ featured_image: '/images/PXL_20220216_010441119.jpg'
 
 <div class="gallery" data-columns="3">
 	<img src="/images/mode65/PXL_20220305_200707201.jpg">
-	<img src="/images/mode65/PXL_20220326_164205863.jpg">
+	<img src="/images/PXL_20220216_010441119.jpg">
 	<img src="/images/mode65/PXL_20220320_233548004.jpg">
 </div>
 <br>
