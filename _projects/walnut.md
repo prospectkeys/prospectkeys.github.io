@@ -14,7 +14,7 @@ featured_image: '/images/PXL_20220116_230112947.jpg'
 * Gummy O-Ring Mounted
 
 <div class="gallery" data-columns="3">
-	<img src="/images/Baka60/PXL_20220409_221227426.jpg">
-	<img src="/images/Baka60/PXL_20220409_221241827.jpg">
-	<img src="/images/Baka60/PXL_20220409_221256312.jpg">
+	<img src="/images/GummyWood/PXL_20220116_225001692.jpg">
+	<img src="/images/GummyWood/PXL_20220116_225944017.jpg">
+	<img src="/images/GummyWood/PXL_20220116_230011109.jpg">
 </div>
